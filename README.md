@@ -41,11 +41,27 @@ To this end, the main missions of Mboalab are as follows:
 - [Open Bioeconomy Lab](https://openbioeconomy.org/)
 - [Africa Open Science & Hardware](https://africaosh.com/)
 
-# Project
-
-## COV19CommunityKITs
-
-We are primarily working on a project to support the mass production,  packaging in kits and distribution of open-source preventive equipments in remote areas. To know more about project, please [visit](https://app.jogl.io/project/217/COV19CommunityKITs).
+# The Project
+The high cost of modern stethoscopes remains a significant barrier to physicians
+and allied health professionals practicing in low- and middle-income countries,
+where few affordable high-quality options exist. Stethoscopes in general are hard
+to sterilize resulting in a use model where cheap stethoscopes are acquired by the
+hospital/clinic and one is assigned to each patient, with every professional who
+works with that patient using the same stethoscope. This can result in crosscontamination as someone touches many stethoscopes. Cheap stethoscopes also
+wear out quickly and have short hoses, resulting in professionals getting
+physically closer to the patient than necessary, particularly if they have to put their
+arm around the patient and listen to positions on the back.
+## The objective
+The objective is to be able to limit the prolonged contact of the nursing staff with
+the patient and to have a device which can be placed by the patient but interpreted
+by the practitioner.
+## The solution
+3D technologies have recently proven their efficiency and speed in the medical
+sector, allowing many projects to see the light of day during the COVID-19 crisis.
+Faced with the shortage of certain medical equipment and devices, makers,
+manufacturers, services and players in the 3D printing sector have mobilized to
+3D print respirators, protective visors, swabs and connected devices to facilitate
+medical teleconsultations.In line with this new paradigm, we propose to designan __open-source wireless 3D printed Digital Stethoscope__.  
 
 ### Skill Required
 - [Open source](https://app.jogl.io/search/projects?refinementList[skills][0]=Open%20source)
