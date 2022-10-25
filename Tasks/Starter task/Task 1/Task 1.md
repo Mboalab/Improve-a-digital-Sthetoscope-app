@@ -16,8 +16,8 @@ Participants are welcome to use already mastered software and tools and are enco
 
 
 ## Main activities to complete: 
-- Collect relevant and contextualised information about the project to enalble the design of a Logo;
-- Design and propose one or more logo using preferd design software and tools. 
+[Done] Collect relevant and contextualised information about the project to enalble the design of a Logo;
+[Done] Design and propose one or more logo using preferd design software and tools. 
 
 
 ## Attributed Mentor:
