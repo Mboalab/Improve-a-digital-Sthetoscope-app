@@ -15,8 +15,8 @@ I have performed the main activities for this task, which include:
 
 I have learned about:
 * Formatting a GitHub markdown
-* Forking
-* Cloning
+* Forking a repository
+* Cloning a repository
 * Writing a great Pull Request
 * Writing meaningful commit messages <br>
 
