@@ -18,6 +18,9 @@ Participants are welcome to use already mastered software and tools and are enco
 ## Main activities to complete: 
 [Done] Collect relevant and contextualised information about the project to enalble the design of a Logo;
 [Done] Design and propose one or more logo using preferd design software and tools. 
+!! NOTE : All the logos inside Ruba-Adel's.contributions directory..
+!! NOTE : All the logos can change the colors and shapes based the project requirements.
+
 
 
 ## Attributed Mentor:
