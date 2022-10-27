@@ -1,4 +1,4 @@
-# OUTREACHY DECEMBER' 22 - MARCH' 2023 CONTRIBUTION PERIOD
+# OUTREACHY DECEMBER' 2022 - MARCH' 2023 CONTRIBUTION PERIOD
 
 ## MBOALAB (Improving a digital stethoscope app)
 
@@ -12,7 +12,7 @@
 > I am skilled with team working and I enjoy learning new things in my field.
 
 It is the first time that I am participating in an open source project, so everything is new for me.
-I have using github since 2020. While doing task 0, I learned how to write on Github.
+I have using GitHub since 2020. While doing task 0, I learned how to write on Github.
 
 ## TASK 0 COMPLETED
 Link for my [GitHub Repositories](https://github.com/umiida?tab=repositories)
