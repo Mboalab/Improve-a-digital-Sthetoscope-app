@@ -30,9 +30,9 @@ _Note that you do not need to be a master in VCS/Git/GitHub to start contributin
 Once you are comfortable with the basics, you can start contributing to open-source._
 
 ## Main activities to complete: 
-- Create a GitHub account (if you don't have one)
-- Go through documentation on basic knowledge on how to use, write and contribut on GitHub.
-- Use acquired knowledge to contribute to a selected task. 
+[Done] Create a GitHub account (if you don't have one)
+[Done] Go through documentation on basic knowledge on how to use, write and contribut on GitHub.
+[Done] Use acquired knowledge to contribute to a selected task. 
 
 ## Adressed to:
 >**This task is particularly adressed to Newcomers and applicants desiring to get started with open-Source contribution and practices as well as everyone willing to contribute to this project and learn the basics of open source repositories and platform (GitHub).**
