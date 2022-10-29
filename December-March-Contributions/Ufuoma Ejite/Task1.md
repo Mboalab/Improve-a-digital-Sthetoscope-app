@@ -1,6 +1,6 @@
 # Designing a Logo for the Project
 
-The goal of this task is branding the digital stethoscope app.
+The goal of this task is to brand the digital stethoscope app.
 
 ## Activites Completed:
 - Collected relevant and contextualised information about the project to enable the design of a logo.
