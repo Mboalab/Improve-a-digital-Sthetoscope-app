@@ -11,13 +11,13 @@ A good logo can pique the interest of the public and invite them to learn more a
 ## Tools and Skills: 
 Participants are welcome to use already mastered software and tools and are encouraged to try out [Open source designer tools](https://geekflare.com/open-source-designer-tools/) for this task.
 
-## Adressed to:
+## Addressed to:
 >**This task is addressed to applicants with skills in graphic design and related competencies, desiring to get started with open-Source designer software and tools.**
 
 
 ## Main activities to complete: 
-- Collect relevant and contextualised information about the project to enalble the design of a Logo;
-- Design and propose one or more logo using preferd design software and tools. 
+- Collect relevant and contextualised information about the project to enable the design of a Logo;
+- Design and propose one or more logos using preferred design software and tools. 
 
 
 ## Attributed Mentor:
