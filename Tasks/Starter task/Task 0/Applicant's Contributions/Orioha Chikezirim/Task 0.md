@@ -3,4 +3,4 @@
 
 - **Create Github account**  [www.github.com/oriohac](https://www.github.com/oriohac)
 - **Basic knowledge on how to use, write and contribute on GitHub.**
-- **Completed Task0.**
+- **Completed Task 0.**

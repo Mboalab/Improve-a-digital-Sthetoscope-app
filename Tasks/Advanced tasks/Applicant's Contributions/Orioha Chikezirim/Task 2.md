@@ -71,6 +71,34 @@ To run on Android, we have to run the TensorFlow lite which is a mobile library 
 
 Once we have everything set up we can load it up into our app for sound classification. On the application a recorder will be built in, which help to record voice files, which will later be sent to the doctor afterwards for further examination.
 
+## How The App Looks
+
+Below is a user interface proposed for the Digital Stethoscope App, the prototype preview can be seen in the link [Preview Application](https://www.figma.com/proto/zLD9bc798qMO6aVQ3V0Zix/Digital-Stethoscope-app?node-id=1%3A27&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A72)
+
+This was achieveed using Adobe XD for the designs and the protype preview was achieved using Figma.
+
+Below are some of the proposed interface images.
+
+Loaing screen:
+
+![Welcome Screen](assets/app/Loading-Screen.png)
+
+Home Screen:
+
+![Welcome Screen](assets/app/Home%20Screen.png)
+
+Record pulse Screen:
+
+![Welcome Screen](assets/app/Record%20Pulse.png)
+
+Respiratory Issue Screen:
+
+![Welcome Screen](assets/app/Resp%20Issue%20Desc.png)
+
+No Issue Screen:
+
+![Welcome Screen](assets/app/No%20Issue%20Desc.png)
+
 ## Conclussion
 
 This project is focused on creating an affordable healthcare equipment, which is the Digital Stethscope, which can be given to anyone from any part of the world to use and check their internal sound, which will be tranmitted to an AI powered open sourced android application with sound classification, this will tell the symptoms of the user according their internal sound, these sounds afterwars can be recorded and transferred to a doctor who will carry out further examination on the sounds, for better result.
