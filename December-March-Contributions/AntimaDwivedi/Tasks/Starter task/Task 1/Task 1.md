@@ -1,27 +1,10 @@
 # Task 1: Designing a Logo for the Project
 
-## Objective: 
-The brand of a project is paramount to deliver the message about its value and goals.
-A proper brand helps the project get the necessary support and make an impact on all the stages of the project life cycle.
-A logo can quickly grab viewers’ attention and communicate the project’s core objectives and importance in an interesting way. 
-Logos are a point of identification; they’re the symbol that external people use to recognize the project's unique brand and value. 
-Because a good logo is a visual, aesthetically pleasing element, it triggers positive recall about the project that the name alone might not. 
-A good logo can pique the interest of the public and invite them to learn more about the project.
 
-## Tools and Skills: 
-Participants are welcome to use already mastered software and tools and are encouraged to try out [Open source designer tools](https://geekflare.com/open-source-designer-tools/) for this task.
+## Main activities that has been completed during this project:
+<b>1 </b> Created two logos that suits fit to our app as per my understandings.<br>
+### First Logo Image <br>
+![Untitled design](https://user-images.githubusercontent.com/56269029/198948327-951c400d-d866-4f87-aa2a-b4e1a7afcda3.png)<br>
+### Second Logo Image <br>
+![Screenshot from 2022-10-29 11-49-42](https://user-images.githubusercontent.com/56269029/198948817-9c20c036-0cf0-47d7-9ddb-912632d47123.png)<br>
 
-## Adressed to:
->**This task is addressed to applicants with skills in graphic design and related competencies, desiring to get started with open-Source designer software and tools.**
-
-
-## Main activities to complete: 
-[Done] Collect relevant and contextualised information about the project to enalble the design of a Logo;
-[Done] Design and propose one or more logo using preferd design software and tools. 
-!! NOTE : All the logos inside Ruba-Adel's.contributions directory..
-!! NOTE : All the logos can change the colors and shapes based the project requirements.
-
-
-
-## Attributed Mentor:
-Attributed mentor to get in touch with for this task is **Stephane Fadanka**
