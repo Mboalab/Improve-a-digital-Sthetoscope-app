@@ -1,24 +1,51 @@
 # Task 2: Design of an app for the project 
 
-## Objective: 
-One of the ultimate goal of the project is to come up with a complete app for pulse rate for wide and easy adoption and use.
+## <b>Introduction of the problem statement</b><br> 
+Cardiovascular diseases (CVDs) are the leading cause of death globally, taking an estimated 17.9 million lives each year.Identifying causes of CVDs and ensuring they receive appropriate treatment can prevent premature deaths.The ultimate goal of this project is to come up with a complete app for pulse rate for wide and easy adoption at very low cost.
 
-[Sthestapp](https://www.hackster.io/mixpose/digital-stethoscope-ai-1e0229) would be an Android mobile application designed to make smartphones
-an affordable yet effective solution to this issue.
+## <b>Proposed Solution</b><br>
+<b>•</b>The basic idea is to develop an application(android) and use the features of a mobile phone for computation and reducing human power.<br>
+<b>•</b> Pulse rate  will be tested in two phases.The first will be a basic testing by humans itself and the other one will be to record pulse rate of heart and consult with doctor remotely.
+<br>
+## Let us go through the app design simultanously.<br>
 
-The app would use AI in the bakckend for sound classification and allows also to determine the pulse rate.
+<b>•</b>After connectiong the stethoscope with mobile phone ,Patient will open the application on mobile phone.<br><br>
+![Untitled](https://user-images.githubusercontent.com/56269029/198957377-965bc27d-eac7-439c-a4cb-98f5850ce3de.jpg)<br>
+<b>•</b>After clicking the<b>Start </b> button, there will be two options for patients,one is <b>Live Testing </b> and other is <b> Live Recording</b>.<br><br>
+![Untitled (1)](https://user-images.githubusercontent.com/56269029/198958678-9c2b7fd8-4323-4781-b7d4-852f063d463d.jpg)<br><br>
+<b>•</b>Tensorflow model for<b> Sound Classification</b> deployed on the backend will detect the disease and show output on the screen.<br><br>
+![Untitled (2)](https://user-images.githubusercontent.com/56269029/198959513-aba1947d-a69e-4ca0-8ec7-e9d6fcd50951.jpg)<br><br>
+<b>•</b>Patient can also record and send it to the doctor for the consultant.<br><br>
+![Untitled (3)](https://user-images.githubusercontent.com/56269029/198959151-2eaa1943-5984-42f3-bab0-f05b5753fbee.jpg)<br><br>
 
-The objective of this task is to come up and design a step by step methodology to  develo a similar app keeping the same feature and fonctionalities.
-
-> ## **Note:** The focus of the task is just to design a methodology with specific list of tasks and descriptions, including technical details and tools to be used, on the various steps involved in the development of an app folowing the proposed example in the link.  
 
 
-## Tools and Skills: 
->**This task is addressed to applicants with interest in the area of data science, programming and coding, Technical documentation, all interested applicant willing to contribute to the project, Partcipants having skills in web and front end developement and other deemed relevant competencies.**
+## Hardware Requirement
 
-## Main tasks to complete:
-[Done] Check in detail this link https://www.hackster.io/mixpose/digital-stethoscope-ai-1e0229;
-[Done] Create a technical document with detailled list of tasks, description, tools needed to develop a similar app, This technical
-document is under 
+<b>•</b>A Stethoscope<br>
+<b>•</b>An andrid mobile phone<br>
+<b>•</b>A microphone<br>
+<b>•</b>A USB Cable<br>
 
-## Attributed Mentor: JAFSIA Elisee
+
+## Software Requirement
+<b>•</b>Android Studio<br>
+<b>•</b>Python and its different libraries installed on the System<br>
+
+
+## Tech Stack
+<b>•</b> Python<br>
+<b>•</b> Frontend technologies<br>
+<b>•</b> Kotlin or Java<br>
+
+
+## Description
+
+## References
+[1][Digital Stethoscope AI](https://www.hackster.io/mixpose/digital-stethoscope-ai-1e0229)
+
+
+
+
+
+
