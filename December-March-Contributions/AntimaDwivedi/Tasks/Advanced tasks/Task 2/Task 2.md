@@ -39,7 +39,6 @@ Cardiovascular diseases (CVDs) are the leading cause of death globally, taking a
 <b>•</b> Kotlin or Java<br>
 
 
-## Description
 
 ## References
 [1][Digital Stethoscope AI](https://www.hackster.io/mixpose/digital-stethoscope-ai-1e0229)
