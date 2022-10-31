@@ -8,3 +8,7 @@
 ### Second Logo Image <br>
 ![Screenshot from 2022-10-29 11-49-42](https://user-images.githubusercontent.com/56269029/198948817-9c20c036-0cf0-47d7-9ddb-912632d47123.png)<br>
 
+## Attributed Mentor:
+Attributed mentor to get in touch with for this task is **JAFSIA Elisee**
+
+
