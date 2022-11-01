@@ -18,10 +18,10 @@ The objective is to develop an android app using ML for sounds classification on
 ## TASK 0 COMPLETED
 - I forked [Improve-a-digital-Sthetoscope-app](https://github.com/Mboalab/Improve-a-digital-Sthetoscope-app);
 - Then I cloned [this repository](https://github.com/umiida/Improve-a-digital-Sthetoscope-app.git) to my Android studio;
-- I created new branch, called  **starter_task** for task 0 and task 1;
-- I created 3 files: .gitignore, Task 0 completed, Task 1 completed;
+- I created new branch, called  **starter_task**;
+- I created 4 files: .gitignore, Task 0 completed, Task 1 completed, Task 2 completed;
 - The .gitignore file prevents to do not push the local projects settings to github.
-- After adding my changes to the project, I a created pull request.
+- After adding my changes to the project, I created pull request.
 
 ###### Self Introduction
 > Assalamu alaikum, I am **Umida Reimbaeva Aytbay qizi** from small rural place in Karakalpakstan, in Uzbekistan.
