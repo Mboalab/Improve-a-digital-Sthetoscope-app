@@ -12,13 +12,10 @@ The objective of this task is to come up and design a step by step methodology t
 
 > ## **Note:** The focus of the task is just to design a methodology with specific list of tasks and descriptions, including technical details and tools to be used, on the various steps involved in the development of an app folowing the proposed example in the link.  
 
-
 ## Tools and Skills: 
 >**This task is addressed to applicants with interest in the area of data science, programming and coding, Technical documentation, all interested applicant willing to contribute to the project, Partcipants having skills in web and front end developement and other deemed relevant competencies.**
-
 ## Main tasks to complete:
-[Done] Check in detail this link https://www.hackster.io/mixpose/digital-stethoscope-ai-1e0229;
-[Done] Create a technical document with detailled list of tasks, description, tools needed to develop a similar app, This technical
-document is under 
+- Check in detail this link https://www.hackster.io/mixpose/digital-stethoscope-ai-1e0229;
+- Create a technical document with detailled list of tasks, description, tools needed to develop a similar app
 
 ## Attributed Mentor: JAFSIA Elisee
