@@ -19,6 +19,5 @@ Participants are welcome to use already mastered software and tools and are enco
 - Collect relevant and contextualised information about the project to enable the design of a Logo;
 - Design and propose one or more logos using preferred design software and tools. 
 
-
 ## Attributed Mentor:
 Attributed mentor to get in touch with for this task is **Stephane Fadanka**
