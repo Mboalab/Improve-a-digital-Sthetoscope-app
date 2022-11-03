@@ -1,0 +1,95 @@
+Before the first internship week: 
+- Stay in touch with my mentors, 
+- Communicating with them on refining my project proposal, finalizing deadlines, and setting milestones
+- Schedule meetings and define how we will communicate with each other during the internship. 
+- Fulfill all tasks asked on Outreachy/Round 15 § Recommended steps for current interns. 
+- Take care of bureaucratic requirements (signing the contract, setting up a payment method, etc).	
+Main Tasks in Developing Digital Stethoscope AI App (12weeks)
+
+(*) UI Design in Figma (week 1)
+(*) TensorFlow Sound Classification Training (week 2)
+(*) Convert Figma UI to Flutter App(Portfolio) (week 1)
+(*) Development(Code Strategy/ Problem Solving) (week 2)
+(*) Backend Solution (week 3)
+(*) Testing (week 2)
+
+Note: I will make Goals on daily basis for weekly task according to research
+and work 5hr/day, that is 4hours to task and 1 hour for community participation and update mentor about my daily work.
+
+(5dec-11dec 2022)
+Week 1:
+Task to-do => (1) I am writing Blog on "Introduce yourself"
+              (2) I am getting Stethoscope and Microphone to record heart beat sound in smart phone and Laptop/System.
+              (3) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+(12dec-18dec 2022)
+Week 2:
+Task to-do => (1) I am drafting Blog on "Everybody struggles"
+              (2) I am getting idea/exploring from alike other digital stethoscope AI.
+              (3) I am designing UI for my App on Figma or any other open source deisgn tool.
+              (4) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+(19dec-25dec 2022)
+Week 3:
+Task to-do => (1) I am updating and publishing Blog on "Everybody struggles"
+              (2) I am installing on my laptop and exploring TensorFlow.
+              (3) I am training Tensorflow Sound Classification.
+              (4) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+(26dec-1jan 2023)
+Week 4:
+Task to-do => (1) I am drafting Blog on "Think about your audience"
+              (2) I am training Tensorflow Sound Classification continue by exploring learning resources.
+              (3) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+(2jan-8jan 2023)
+Week 5:
+Task to-do => (1) I am drafting Blog on "Mid-point project progress"
+              (2) Converting UI figma to flutter/dart code and making it responsive.
+              (3) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+(9jan-15jan 2023)
+Week 6:
+Task to-do => (1) I am updating Blog on "Mid-point project progress"
+              (2) I am converting UI figma to flutter/dart code and making it responsive (continue...)
+              (3) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+(16jan-22jan 2023)
+Week 7:
+Task to-do => (1) I am publishing Blog on "Mid-point project progress"
+              (2) Development Phase 1 (Code Stategy/ Problem Solving workflow)
+              (3) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+(23jan-29jan 2023)
+Week 8:
+Task to-do => (1) I am drafting Blog on "Career opportunities"
+              (2) I am in Development Phase 2 (Coding).
+              (3) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+
+(30jan-5feb 2023)
+Week 9:
+Task to-do => (1) I am publishing Blog on "Career opportunities"
+              (2) I am in Development Phase 3 (Backend Coding).
+              (3) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+(6feb-12feb 2023)
+Week 10:
+Task to-do => (1) I am Learning and implementing
+              (2) I am in Development Phase 4 (Backend Coding).
+              (3) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+
+(13feb-19feb 2023)
+Week 11:
+Task to-do => (1) I am drafting Blog on "Final project progress"
+              (2) I am work on my resume.
+              (3) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+
+(20feb-26feb 2023)
+Week 12:
+Task to-do => (1) I am publishing Blog on "Final project progress"
+              (2) I am Keep mentors upto-date about my progress by communicating by whatsApp/video chat
+
+
