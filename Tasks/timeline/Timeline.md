@@ -2,4 +2,4 @@
 
 ## MBOALAB (Improving a digital stethoscope app)
 ### Timeline
-[Link for my timeline](https://docs.google.com/document/d/1x9FQTb3YzV4lGoUHI1wnZVgcCBMGWDomlkid1arb4Gs/edit)
+[Link for my timeline](https://docs.google.com/document/d/1x9FQTb3YzV4lGoUHI1wnZVgcCBMGWDomlkid1arb4Gs/edit?usp=sharing)
