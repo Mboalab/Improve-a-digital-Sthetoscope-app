@@ -14,14 +14,11 @@ Participants are welcome to use already mastered software and tools and are enco
 ## Adressed to:
 >**This task is addressed to applicants with skills in graphic design and related competencies, desiring to get started with open-Source designer software and tools.**
 
+## Main activities to complete:
 
-## Main activities to complete: 
-[Done] Collect relevant and contextualised information about the project to enalble the design of a Logo;
-[Done] Design and propose one or more logo using preferd design software and tools. 
-!! NOTE : All the logos inside Ruba-Adel's.contributions directory..
-!! NOTE : All the logos can change the colors and shapes based the project requirements.
-
-
+* Collect relevant and contextualised information about the project to enalble the design of a Logo;
+* Design and propose one or more logo using preferd design software and tools.
 
 ## Attributed Mentor:
+
 Attributed mentor to get in touch with for this task is **Stephane Fadanka**
