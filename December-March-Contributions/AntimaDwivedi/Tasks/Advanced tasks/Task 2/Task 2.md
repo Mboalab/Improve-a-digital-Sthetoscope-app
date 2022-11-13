@@ -19,6 +19,16 @@ Cardiovascular diseases (CVDs) are the leading cause of death globally, taking a
 ![Untitled (3)](https://user-images.githubusercontent.com/56269029/198959151-2eaa1943-5984-42f3-bab0-f05b5753fbee.jpg)<br><br>
 
 
+## Improvement in the app design .<br>
+
+https://user-images.githubusercontent.com/56269029/201517402-a0b1d0df-6e7e-42ec-90e5-81d1654cbf49.mp4
+
+## Techincal document regading app methodology.<br>
+https://docs.google.com/document/d/1-b8ppwrDNejHThlLIyAG-QCAgJab9HiJE5WJk1eZma4/edit
+
+
+<br>
+
 
 ## Hardware Requirement
 
@@ -31,6 +41,7 @@ Cardiovascular diseases (CVDs) are the leading cause of death globally, taking a
 ## Software Requirement
 <b>•</b>Android Studio<br>
 <b>•</b>Python and its different libraries installed on the System<br>
+
 
 
 ## Tech Stack
