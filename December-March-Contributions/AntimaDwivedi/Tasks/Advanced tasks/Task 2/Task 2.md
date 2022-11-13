@@ -19,7 +19,8 @@ Cardiovascular diseases (CVDs) are the leading cause of death globally, taking a
 ![Untitled (3)](https://user-images.githubusercontent.com/56269029/198959151-2eaa1943-5984-42f3-bab0-f05b5753fbee.jpg)<br><br>
 
 
-## Improvement in the app design .<br>
+## Improvement in the app design.<br>
+After further modification and improvement,Application UI will be look like this.
 
 https://user-images.githubusercontent.com/56269029/201517402-a0b1d0df-6e7e-42ec-90e5-81d1654cbf49.mp4
 
