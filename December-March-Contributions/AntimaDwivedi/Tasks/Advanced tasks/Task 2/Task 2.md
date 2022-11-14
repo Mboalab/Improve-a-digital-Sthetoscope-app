@@ -9,18 +9,27 @@ Cardiovascular diseases (CVDs) are the leading cause of death globally, taking a
 <br>
 ## Let us go through the app design simultanously.<br>
 
-<b>•</b>After connectiong the stethoscope with mobile phone ,Patient will open the application on mobile phone.<br><br>
-![Untitled](https://user-images.githubusercontent.com/56269029/198957377-965bc27d-eac7-439c-a4cb-98f5850ce3de.jpg)<br>
-<b>•</b>After clicking the<b>Start </b> button, there will be two options for patients,one is <b>Live Testing </b> and other is <b> Live Recording</b>.<br><br>
-![Untitled (1)](https://user-images.githubusercontent.com/56269029/198958678-9c2b7fd8-4323-4781-b7d4-852f063d463d.jpg)<br><br>
-<b>•</b>Tensorflow model for<b> Sound Classification</b> deployed on the backend will detect the disease and show output on the screen.<br><br>
-![Untitled (2)](https://user-images.githubusercontent.com/56269029/198959513-aba1947d-a69e-4ca0-8ec7-e9d6fcd50951.jpg)<br><br>
-<b>•</b>Patient can also record and send it to the doctor for the consultant.<br><br>
-![Untitled (3)](https://user-images.githubusercontent.com/56269029/198959151-2eaa1943-5984-42f3-bab0-f05b5753fbee.jpg)<br><br>
+<b>•</b> After connectiong the stethoscope with mobile phone ,Patient will open the application on mobile phone.<br><br>
+![Screenshot from 2022-11-14 09-43-45](https://user-images.githubusercontent.com/56269029/201574196-d8ddfb93-3ac7-4a7b-8a5e-7d561727a079.png)<br><br>
+<b>•</b> Home page of Android application will look like the below image<br><br>
+![Homepage](https://user-images.githubusercontent.com/56269029/201574392-e3fca818-39fd-49a2-a873-67e75ba2be6d.jpg)<br><br>
+<b>•</b> User can click on the <b>START </b> button to monitor the heart sounds in Home Page.<br><br>
+<b>•</b> There will be two options on the UI ,first is Live testing and other is recording of the heart beats.<br>
+![Service listing](https://user-images.githubusercontent.com/56269029/201574622-ace509ea-1d6d-421a-84d5-8155aada5b40.jpg)<br><br>
+<b>•</b> Tensorflow model for<b> Sound Classification</b> deployed on the backend will detect the disease and show output on the screen.<br><br>
+<b>•</b> Patient can also record and send it to the doctor for the consultant.<br><br>
+![Doctor listing](https://user-images.githubusercontent.com/56269029/201574818-cbbafea2-9eeb-4669-9934-8565bd7e4b7b.jpg)<br><br>
+<b>•</b>  Appointment with doctor can also be scheduled via online for better treatment.<br><br>
+![Appointment schedule](https://user-images.githubusercontent.com/56269029/201574914-6d8a8425-9f10-409f-8a3d-5e8f0c606233.jpg)<br><br>
+<b>•</b> Video calls with doctor.<br><br>
+![Video call with doctor](https://user-images.githubusercontent.com/56269029/201575021-235c79d7-c496-4269-a13e-eddef19c2e2d.jpg)<br><br>
+<b>•</b>  At last,User can also send feedbacks about the doctor.<br><br>
+
 
 
 ## Improvement in the app design.<br>
 After further modification and improvement,Application UI will be look like this.
+
 
 https://user-images.githubusercontent.com/56269029/201517402-a0b1d0df-6e7e-42ec-90e5-81d1654cbf49.mp4
 
